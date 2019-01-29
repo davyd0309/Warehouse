@@ -8,6 +8,8 @@ app:
     orders-completed-conversion-of-mass: orders-conversion-of-mass
     orders-completed-foundry: orders-completed-foundry
 
+server:
+  port: 8082
 #logging:
 #  level:
 #    root: ERROR
